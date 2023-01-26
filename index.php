@@ -34,7 +34,7 @@ include_once "includes/connect.php";
           <div class="col-md-7">
             <div class="mb-4">
               <h3>Sign In</h3>
-              <p class="mb-4">Lorem ipsum dolor sit amet elit. Sapiente sit aut eos consectetur adipisicing.</p>
+              <p class="mb-4">This portal is work in progress and is only available to some students for testing.</p>
             </div>
             <form action="includes/login.inc.php" method="post">
               <div class="form-group first">
